@@ -14,7 +14,7 @@
 
 <?php
    
-   $a = 70;
+   $a = 170;
    $b = 20;
    $b= 85;
    //$abs = 50;
@@ -23,5 +23,5 @@
 
 
 
-   echo "E o maior ".$maior;
+   echo $maior." e o maior ";
 
